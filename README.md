@@ -1,2 +1,2 @@
-# testproject
-proyecto de prueba
+# JQuery Drag & Drop image mover
+
